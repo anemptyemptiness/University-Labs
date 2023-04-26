@@ -1,0 +1,9 @@
+The application started at 10:43:36.481
+Disk names: C:\
+Disk type: Fixed
+The amount of free disk space: 17,5155029296875 Gbytes
+
+Total-RAM is about 6168416256 bytes
+Busy-RAM is about 6162392412 bytes
+Occupied memory as a percentage: 99%
+Terminating the application...

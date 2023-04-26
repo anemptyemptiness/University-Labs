@@ -1,0 +1,268 @@
+<!DOCTYPE html>
+<html lang="ru">
+<head>
+    <meta charset="UTF-8">
+    <title>Неруссков Дмитрий, группа: КС-26</title>
+    <link rel="shortcut icon" href=https://i.etsystatic.com/26757943/r/il/4d18c5/3281705727/il_794xN.3281705727_nxpk.jpg></head>
+<body>
+<h1>Язык гипертекстовой разметки HTML</h1>
+<h2>Содержание</h2>
+<ol type="1">
+    <li> <a href="#id_1"> Полезные ссылки</a> </li>
+    <li> <a href="#id_2"> Описание</a> </li>
+    <li> <a href="#id_3"> Версии</a> </li>
+    <li> <a href="#id_4"> Основные теги</a> </li>
+    <li> <a href="#id_5"> Подписка</a> </li>
+</ol>
+<h2 id="id_1">1. Полезные ссылки</h2>
+<a id="IDEPhpStorm" href="https://www.jetbrains.com/phpstorm/" target="_blank">IDE PhoStorm</a><br>
+<a id="FreeLicencePHP" href="https://www.jetbrains.com/shop/eform/students" target="_blank">Бесплатная лицензия IDE PhpStorm для студентов</a><br>
+<a id="TextBookHTML" href="http://htmlbook.ru/html" target="_blank">Справочник HTML</a><br>
+<a id="ValidCode" href="https://validator.w3.org/" target="_blank">Валидатор HTML кода</a><br>
+<a id="SpecialSymbolsHTML" href="https://html5book.ru/css-css3/" target="_blank">CSS и CSS3</a><br>
+<a id="HTMLWiki" href="https://ru.wikipedia.org/wiki/CSS" target="_blank">CSS Wiki</a><br>
+
+<h2 id="id_2">2. Описание</h2>
+<p><img src="https://sun1.userapi.com/sun1-23/s/v1/ig2/EtSTCgnCA8Btx3r_F4Ujv_b5W83ptvdjxL-zdC2rIpaoJJ3gm7L2nA7wrZqohaFncZUKQdYOs0T0dOnlpccFxT4r.jpg?size=1200x1366&quality=96&type=album" width="274" height="274" alt="No image"></p>
+
+<p> <strong>CSS</strong> (<em>от англ. Cascading Style Sheets «каскадные таблицы стилей»</em>) — формальный язык описания внешнего вида документа (веб-страницы), написанного с использованием языка разметки (чаще всего HTML или XHTML). Также может применяться к любым XML-документам, например, к SVG или XUL.
+    <br/><br/>
+    CSS — одна из широкого спектра технологий, одобренных консорциумом W3C и получивших общее название «стандарты Web». В 1990-х годах стала ясна необходимость стандартизировать Web, создать какие-то единые правила, по которым программисты и веб-дизайнеры проектировали бы сайты. Так появились языки HTML 4.01 и XHTML, и стандарт CSS.
+    <br/><br/>
+    В начале 1990-х различные браузеры имели свои стили для отображения веб-страниц. HTML развивался очень быстро и был способен удовлетворить все существовавшие на тот момент потребности по оформлению информации, поэтому CSS не получил тогда широкого признания.
+    <br/><br/>
+    Термин «каскадные таблицы стилей» был предложен Хоконом Ли в 1994 году. Совместно с Бертом Босом он стал развивать CSS.
+    <br/><br/>
+    В отличие от многих существовавших на тот момент языков стиля, CSS использует наследование от родителя к потомку, поэтому разработчик может определить разные стили, основываясь на уже определённых ранее стилях.
+    <br/><br/>
+    В середине 1990-х Консорциум Всемирной паутины (W3C) стал проявлять интерес к CSS, и в декабре 1996 года была издана рекомендация CSS1.
+<h2 id="id_3">3. Версии</h2>
+<ul>
+    <li>Уровень 1 (CSS1) — Рекомендация W3C, принята 17 декабря 1996 года, откорректирована 11 января 1999 года.</li>
+    <li>Уровень 2 (CSS2) — Рекомендация W3C, принята 12 мая 1998 года. Основана на CSS1 с сохранением обратной совместимости за несколькими исключениями.</li>
+    <li>Уровень 3 (CSS3) — активно разрабатываемая спецификация CSS. Представляет собой формальный язык, реализованный с помощью языка разметки. Самая масштабная редакция по сравнению с CSS1, CSS2 и CSS2.1. Главной особенностью CSS3 является возможность создавать анимированные элементы без использования JS, поддержка линейных и радиальных градиентов, теней, сглаживания и прочее.</li>
+    <li>Уровень 4 (CSS4) — Разрабатывается W3C с 29 сентября 2011 года. Модули CSS4 построены на основе CSS3 и дополняют их новыми свойствами и значениями. Все они существуют пока в виде черновиков (working draft).</li>
+</ul>
+<h2 id="id_4">4. Основные теги</h2>
+<table border="1">
+    <tr>
+        <th>Тип</th>
+        <th>Стиль</th>
+        <th>Описание</th>
+    </tr>
+    <tr>
+        <th rowspan="21">Текст</th>
+        <td>color</td>
+        <td>Цвет текста</td>
+    </tr>
+    <tr>
+        <td>font</td>
+        <td>Определяет сразу несколько параметров шрифта.</td>
+    </tr>
+    <tr>
+        <td>font-family</td>
+        <td>Задает шрифт или шрифтовое семейство, которым будет отображаться элемент.</td>
+    </tr>
+    <tr>
+        <td>@font-face</td>
+        <td>Внедрение в документ шрифта из внешнего файла.</td>
+    </tr>
+    <tr>
+        <td>font-size</td>
+        <td>размер шрифта.</td>
+    </tr>
+    <tr>
+        <td>font-style</td>
+        <td>Способ начертания шрифта.</td>
+    </tr>
+    <tr>
+        <td>font-variant</td>
+        <td>Варианты начертания шрифта.</td>
+    </tr>
+    <tr>
+        <td>font-weight</td>
+        <td>Степень жирности шрифта.</td>
+    </tr>
+    <tr>
+        <td>letter-spacing</td>
+        <td>Интервал между буквами текста.</td>
+    </tr>
+    <tr>
+        <td>line-height</td>
+        <td>Интервал между строками текста.</td>
+    </tr>
+    <tr>
+        <td>quotes</td>
+        <td>Вид кавычек в теге "a href-"text php#" "/a".</td>
+    </tr>
+    <tr>
+        <td>text-align</td>
+        <td>Определяет выравнивание элемента.</td>
+    </tr>
+    <tr>
+        <td>text-decoration</td>
+        <td>Устанавливает эффекты оформления текста.</td>
+    </tr>
+    <tr>
+        <td>text-decoration-color</td>
+        <td>Цвет линии установленной свойством text-decoration или text-decoration-line.</td>
+    </tr>
+    <tr>
+        <td>text-decoration-line</td>
+        <td>Устанавливает положение деворативной линии.</td>
+    </tr>
+    <tr>
+        <td>text-decoration-style</td>
+        <td>Стиль линии, установленной свойством text-decoration или text-decoration-line.</td>
+    </tr>
+    <tr>
+        <td>text-indent</td>
+        <td>Отступ первой строки. Чаше всего используется для создания абзацев с красной строкой.</td>
+    </tr>
+    <tr>
+        <td>text-overflow</td>
+        <td>Устанавливает способ обрезки текста, если он не помещается в заданную область. Работает, если overflow установлено, как auto, scroll или hidden, a white-space:nowrap.</td>
+    </tr>
+    <tr>
+        <td>text-transform</td>
+        <td>Задает преобразование регистра текста при отображении.</td>
+    </tr>
+    <tr>
+        <td>vertical-align</td>
+        <td>Вертикальное выравнивание элемента (не только текста).</td>
+    </tr>
+    <tr>
+        <td>word-spacing</td>
+        <td>Интервал между словами.</td>
+    </tr>
+    <tr>
+        <th rowspan="11">Фон</th>
+    </tr>
+    <tr>
+        <td>background-attachment</td>
+        <td>Устанавливает, будет ли прокручиваться фоновое изображение вместе с содержимым элемента.</td>
+    </tr>
+    <tr>
+        <td>background-clip</td>
+        <td>Устанавливает, где будет отображаться фон.</td>
+    </tr>
+    <tr>
+        <td>background-color</td>
+        <td>Цвет фона элемента.</td>
+    </tr>
+    <tr>
+        <td>background-image</td>
+        <td>Устанавливает фоновое изображение для злемента.</td>
+    </tr>
+    <tr>
+        <td>background-origin</td>
+        <td>Устанавливает, где будет начинаться фоновое изображение.</td>
+    </tr>
+    <tr>
+        <td>background-position</td>
+        <td>Задает начальное положение фонового изображения. По умолчанию - в левом верхнем углу.</td>
+    </tr>
+    <tr>
+        <td>background-repeat</td>
+        <td>Определяет, как будет повторяться фоновос изображение.</td>
+    </tr>
+    <tr>
+        <td>background-size</td>
+        <td>Определяет ширину и высоту фонового изображения.</td>
+    </tr>
+    <tr>
+        <td>background</td>
+        <td>Позволяет установить до пяти атрибутов стиля фона одновременно.</td>
+    </tr>
+    <tr>
+        <td>opacity</td>
+        <td>Определяет уровень прозрачности элемента.</td>
+    </tr>
+    <tr>
+        <th rowspan="5">Рамки (границы)</th>
+    </tr>
+    <tr>
+        <td>border</td>
+        <td>Ширина, стиль и цвет границы вокруг элемента.</td>
+    </tr>
+    <tr>
+        <td>border-radius</td>
+        <td>Радиус скругления углов рамки и фона элемента.</td>
+    </tr>
+    <tr>
+        <td>border-image</td>
+        <td>Рамка-изображение</td>
+    </tr>
+    <tr>
+        <td>outline</td>
+        <td>Ширина, стиль и цвет внешней рамки элемента.</td>
+    </tr>
+    <tr>
+        <th colspan="3">...</th>
+    </tr>
+    <tr>
+        <th rowspan="4">Позиционированиe</th>
+    </tr>
+    <tr>
+        <td>botton, left, right, top</td>
+        <td>Устанавливает положение выбранного края содержимого элемента без учета толщины рамок и отступов.</td>
+    </tr>
+    <tr>
+        <td>position</td>
+        <td>Устанавливает способ позиционирования элемента относительно окна браузера или других объектов на Web-странице.</td>
+    </tr>
+    <tr>
+        <td>z-index</td>
+        <td>Любые позиционированные элементы на Web-странице могут накладываться друг на друга в определенном порядке, игнорируя тем самым третье измерение, перпендикулярное экрану.</td>
+    </tr>
+</table>
+
+<br/>
+
+<h2 id="id_5">5. Подписка</h2>
+<form action="indexx.html" method="get" name="login">
+    <input type="text" name="surname" id="id_surname" required>
+    <label for="id_surname">Ваша фамилия <sup>* </sup></label>
+    <br/>
+
+    <input type="text" name="name" id="id_name" required>
+    <label for="id_name">Ваше имя <sup>* </sup></label>
+    <br/>
+
+    <input type="email" name="mail" id="id_mail" required>
+    <label for="id_mail">Ваш E-Mail <sup>* </sup></label>
+    <br/>
+
+    <input type="date" name="birthday" id="id_birthday">
+    <label>Ваша дата рождения <sup>* </sup></label>
+    <br/>
+
+    <label for="id_status_s">Краткая регистрация</label>
+    <input type="radio" name="status" id="id_status_s" value="S"/>
+
+    <label for="id_status_r">Полная регистрация</label>
+    <input type="radio" name="status" id="id_status_r" value="R" checked>
+
+    <p>
+        <textarea name="comment" cols="20" rows="2" maxlength="50"></textarea>
+        <label>Расскажите мне о ваших хобби</label>
+    </p>
+
+    <select name="select" id="id_select">
+        <option value="Yes">Да</option>
+        <option value="No" selected>Нет</option>
+    </select>
+    <label for="id_select">Разрешаю использовать и обрабатывать мои данные</label>
+    <br/>
+    <br/>
+
+    <input type="checkbox" name="news" id="id_news" value="Y" checked>
+    <label for="id_news">Подписаться на новости?</label>
+    <br/>
+    <br/>
+
+    <button type="submit">Отправить</button>
+    <button type="reset">Отмена</button>
+</form>
+</body>
+</html>

@@ -1,0 +1,10 @@
+C:\Users\dneru\Desktop\Учеба\2 курс 2 сем\Красильников C#\lab6\lab6\bin\Debug\lab6.exe.config
+C:\Users\dneru\Desktop\Учеба\2 курс 2 сем\Красильников C#\lab6\lab6\bin\Debug\lab6.exe
+C:\Users\dneru\Desktop\Учеба\2 курс 2 сем\Красильников C#\lab6\lab6\bin\Debug\lab6.pdb
+C:\Users\dneru\Desktop\Учеба\2 курс 2 сем\Красильников C#\lab6\lab6\obj\Debug\lab6.csproj.AssemblyReference.cache
+C:\Users\dneru\Desktop\Учеба\2 курс 2 сем\Красильников C#\lab6\lab6\obj\Debug\lab6.Form1.resources
+C:\Users\dneru\Desktop\Учеба\2 курс 2 сем\Красильников C#\lab6\lab6\obj\Debug\lab6.Properties.Resources.resources
+C:\Users\dneru\Desktop\Учеба\2 курс 2 сем\Красильников C#\lab6\lab6\obj\Debug\lab6.csproj.GenerateResource.cache
+C:\Users\dneru\Desktop\Учеба\2 курс 2 сем\Красильников C#\lab6\lab6\obj\Debug\lab6.csproj.CoreCompileInputs.cache
+C:\Users\dneru\Desktop\Учеба\2 курс 2 сем\Красильников C#\lab6\lab6\obj\Debug\lab6.exe
+C:\Users\dneru\Desktop\Учеба\2 курс 2 сем\Красильников C#\lab6\lab6\obj\Debug\lab6.pdb

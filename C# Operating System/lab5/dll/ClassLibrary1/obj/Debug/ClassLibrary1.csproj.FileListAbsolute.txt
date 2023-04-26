@@ -1,0 +1,6 @@
+C:\Users\dneru\Desktop\Учеба\2 курс 2 сем\Красильников C#\lab5\dll\ClassLibrary1\bin\Debug\ClassLibrary1.dll
+C:\Users\dneru\Desktop\Учеба\2 курс 2 сем\Красильников C#\lab5\dll\ClassLibrary1\bin\Debug\ClassLibrary1.pdb
+C:\Users\dneru\Desktop\Учеба\2 курс 2 сем\Красильников C#\lab5\dll\ClassLibrary1\obj\Debug\ClassLibrary1.csproj.AssemblyReference.cache
+C:\Users\dneru\Desktop\Учеба\2 курс 2 сем\Красильников C#\lab5\dll\ClassLibrary1\obj\Debug\ClassLibrary1.csproj.CoreCompileInputs.cache
+C:\Users\dneru\Desktop\Учеба\2 курс 2 сем\Красильников C#\lab5\dll\ClassLibrary1\obj\Debug\ClassLibrary1.dll
+C:\Users\dneru\Desktop\Учеба\2 курс 2 сем\Красильников C#\lab5\dll\ClassLibrary1\obj\Debug\ClassLibrary1.pdb

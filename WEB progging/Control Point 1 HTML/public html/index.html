@@ -1,0 +1,156 @@
+<!-- Comment -->
+<!DOCTYPE html>
+<html lang="ru">
+    <head>
+        <title>Учебный сайт | ks26.test</title>
+        <meta name="description" content="Учебный сайт для группы КС-26"/>
+        <meta charset="UTF-8"/>
+        <link href="logo/picture.jpg" rel="icon"/>
+        <link href="../css/style.css" rel="stylesheet" type="text/css"/>
+
+        <!--<style>
+            body{
+                background: blue;
+            }
+        </style>-->
+    </head>
+
+    <body>
+    <header></header> <!-- шапка сайта -->
+    <nav></nav> <!-- навигация сайта -->
+    <main> <!-- главное содержание сайта -->
+        <section>
+            <h2>SECTION</h2>
+            <article>
+                <h3>ARTICLE</h3>
+            </article>
+            <article>
+                <h3>ARTICLEE</h3>
+            </article>
+        </section>
+    </main>
+
+    <h1 id="tag_1">Заголовок 1</h1>
+    <h2 id="zag_2">Заголовок 2</h2>
+    <h3>Заголовок 3</h3>
+    <h4>Заголовок 4</h4>
+    <h5>Заголовок 5</h5>
+    <h6>Заголовок 6</h6>
+        <p>Tits tits tits tits tits tits tits tits tits tits tits tits tits tits tits tits tits tits tits
+            tits tits tits tits tits tits tits tits tits tits tits tits tits tits tits tits tits tits tits
+            tits tits tits tits tits tits tits tits tits tits tits tits tits tits tits tits tits tits tits
+            tits tits tits tits tits tits tits tits tits tits tits tits tits tits tits tits tits tits tits
+            tits <span style="color: red">tits</span> <sub>BIG TITS</sub> tits<sup> LITTLE TITS</sup> <strong>tits</strong>tits <em>tits</em> <br/>
+            tits tits tits tits tits tits tits tits tits tits tits tits tits tits tits tits tits tits tits
+            tits tits</p>
+            <hr/>
+        <div class="group_1">Блок 1</div> <!--через class="" мы делаем элементы уникальными, чтобы применить стиль
+        именно к ним, так как id здесь применить невозможно-->
+        <div class="group_1">Блок 2</div>
+        <ol>Элем 1
+            <li class="group_1">ЭЛЕМЕНТ 1</li>
+            <li class="group_1">ЭЛЕМЕНТ 2</li>
+            <li class="group_1">ЭЛЕМЕНТ 3</li>
+            <li>ЭЛЕМЕНТ 4</li>
+            <li>ЭЛЕМЕНТ 5</li>
+        </ol>
+
+        <ul>
+            <li>UL-1</li>
+            <li>UL-2</li>
+            <li>UL-3</li>
+        </ul>
+
+    </br></br></br></br></br></br>
+    <a href="https://ya.ru" target="_blank">Ссылка на Yandex</a> </br>
+    <a href="page.html" target="_blank">Ссылка на страницу 2</a> </br>
+    <a href="#tag_1">Ссылка на заголовой 1</a> </br> <!-- для использования ссылки на ресурс внутри сайта href = "#ID" -->
+
+    <a href="http://htmlbook.ru/" target="_blank">
+        <img height="250" width="250" src="img/gangsta.jpeg" alt="GANGSTA SKELETON/"/>
+    </a>
+
+    <br/><br/><br/><br/><br/><br/>
+
+    <table border="1">
+        <caption>Таблица</caption> <!--заголовок таблицы-->
+        <thead> <!--шапка таблицы-->
+            <tr>
+                <th>Ячейка h-1</th>
+                <th>Ячейка h-2</th>
+                <th>Ячейка h-3</th>
+            </tr>
+        </thead>
+        <tbody>
+        <tr>
+            <td>Ячейка 1</td> <!--объединяем ячейки colspan rowspan-->
+            <td>Ячейка 2</td>
+            <td>Ячейка 3</td>
+        </tr>
+        <tr>
+            <td>Ячейка 4</td>
+            <td>Ячейка 5</td>
+            <td>Ячейка 6</td>
+        </tr>
+        <tr>
+            <td>Ячейка 7</td>
+            <td>Ячейка 8</td>
+            <td>Ячейка 9</td>
+        </tr>
+        </tbody>
+        <tfoot> <!--подвал таблицы-->
+        <tr>
+            <td>F 1</td>
+            <td>F 2</td>
+            <td>F 3</td>
+        </tr>
+        </tfoot>
+    </table>
+
+    <br/><br/><br/><br/><br/><br/>
+
+    <form name="form_1" action="index.html" method="get">
+        <label form="id_fio">ФИО:</label> <!--тут # в ссылке использовать не нужно-->
+        <input type="text" name="fio" id="id_fio" placeholder="Иванов Иван Иванович"/> <!--readonly запрещает
+        что то писать в форму, required - не запустит форму, если ничего не записано внутри-->
+        <!--<label form="id_color">Выберите цвет:</label>
+            <input type="color" name="color" id="id_color"/>-->
+
+    <br/><br/><br/><br/><br/><br/>
+
+
+        <label for="id_news">Подписаться на новости:</label>
+        <input type="checkbox" name="news" value="Y" id="id_news" checked/>
+
+        <br/>
+        <label for="id_tariff_p">Премиум</label>
+        <input type="radio" name="tariff" value="P" id="id_tariff_p" checked/>
+
+        <br/>
+        <label for="id_tariff_S">Стандарт</label>
+        <input type="radio" name="tariff" value="S" id="id_tariff_S"/>
+        <!--sumbit - отправка данных, button - перезагрузка, reset - сбрасывает форму
+        в первоначальное значение-->
+
+        <br/>
+        <label for="id_options">Какие-то опции:</label>
+        <select id="id_options" name="options">
+            <option value="1">Опция 1</option> <!--option - это элементы select-->
+            <option value="2" selected>Опция 2</option> <!--selected - опция по умолчанию-->
+            <option value="3">Опция 3</option>
+        </select>
+        <br/><br/>
+
+        <label for="id_area">Какие-то опции:</label>
+        <textarea name="area" id="id_area" maxlength="20"></textarea>
+
+        <br/>
+        <button>Отправить</button>
+        <button type="reset">Отмена</button>
+    </form>
+
+    <footer> <!-- подвал сайта -->
+        <h2>FOOTER</h2>
+    </footer>
+    </body>
+</html>

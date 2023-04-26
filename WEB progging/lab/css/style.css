@@ -1,0 +1,141 @@
+/*h2 {*/
+/*    color: red;*/
+/*}*/
+
+/*body {*/
+/*    background: white;*/
+/*}*/
+
+/*#zag_2 { !* по айди обращаемся через #, он будет более приоритетен, чем простой заголовок h2 *!*/
+/*    color: blue;*/
+/*}*/
+
+/** { !* "*" позволяет обращаться ко всем элементам, приоритет у него самый низкий *!*/
+/*    color: #333;*/
+/*}*/
+
+/*.group_1 {*/
+/*    color: green;*/
+/*}*/
+/*!* или *!*/
+/*div.group_1 {*/
+/*    color: aqua;*/
+/*}*/
+
+/*article > h3 {*/
+/*    color: deeppink;*/
+/*}*/
+
+/*input[type="text"] {*/
+/*    width: 300px;*/
+/*}*/
+
+/*h2 ~ article {*/
+/*    background: #eee;*/
+/*}*/
+
+/*ul > li, ol > li { !* запятая нужна для перечисления, знак > нужен, чтобы показать, что*/
+/* применяем мы условие для элементов li, причем .group_1 является более точным указателем*!*/
+/*    color: coral;*/
+/*}*/
+
+h1 {
+    color: #ff0000ff;
+}
+
+body {
+    /*
+    background: rgba(255, 154, 17, 0.66);
+    */
+    /*background-color: #ddd;
+    background-image: url("../public_html/img/gangsta.jpeg");
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+    background-position: center center;*/
+    /*background-size: 40%;*/
+
+    /*background: #ddd url("../public_html/img/gangsta.jpeg") no-repeat fixed center center;*/
+}
+
+p {
+    font-family: Arial, sans-serif;
+    font-size: 24px;
+    font-weight: 500;
+    font-style: oblique;
+    font-variant: small-caps;
+    /*font: */
+
+    text-align: justify;
+    text-indent: 20px;
+    text-decoration: underline;
+    text-transform: capitalize;
+    letter-spacing: 5px;
+    word-spacing: 15px;
+    line-height: 40px;
+}
+
+ul {
+    list-style-type: none;
+    /*list-style-image: url("../public_html/img/gangsta.jpeg");*/
+    list-style-position: ;
+}
+
+body > div {
+    border: 1px solid #000;
+    height: 50px;
+    overflow: scroll;
+}
+
+div > div:nth-child(3n){
+    /*border-style: solid;
+    border-color: green;
+    border-width: 3px;*/
+
+    /*border: solid green 3px;
+    border-top-style: dotted;
+    width: ;
+    height: ;
+    padding: ;
+    box-sizing: border-box;
+    margin: 20px auto;
+    border-radius: 25px 0;
+    box-shadow: 5px 5px 5px 0 #bbb;
+    text-align: center;
+    line-height: 24px;*/
+
+    clear: both;
+}
+
+div#block_1 {
+    position: absolute;
+    margin: 0;
+    top: 0;
+    left: 0;
+    background: yellowgreen;
+    z-index: 100;
+}
+
+div#block_2 {
+    position: absolute;
+    margin: 0;
+    top: 25px;
+    left: 25px;
+    background: pink;
+    z-index: 200;
+}
+
+div#block_3 {
+    position: fixed;
+    margin: 0;
+    right: 0;
+    bottom: 0;
+    background: pink;
+}
+
+div#block_4 {
+    position: relative;
+    margin: 0;
+    background: aquamarine;
+    top: 100px;
+    left: 100px;
+}

@@ -1,0 +1,29 @@
+<style>
+td{
+	border: 1px solid black;
+    text-align: center;
+    width: 25px;
+    height: 25px;
+}
+</style>
+<table>
+<tbody>
+<?php
+$cols = rand(5, 20);
+$rows = rand(5, 20);
+$num = 2;
+$massive = array( 'cols' => $cols, 'rows' => $rows);
+for ($i = 1; $i <= $cols; $i++){
+	echo "<tr>";
+	for ($j = 1; $j <= $rows; $j++){
+		if ($j == 1){
+			echo "<td style = 'font-weight: bold; color: red;'>$num</td>";}
+		else{
+			echo "<td>$num</td>";}
+		$num += 2;
+		}
+	echo "</tr>";
+}
+?>
+</tbody>
+</table>

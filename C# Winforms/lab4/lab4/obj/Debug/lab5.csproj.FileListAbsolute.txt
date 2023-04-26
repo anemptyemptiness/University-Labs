@@ -1,0 +1,10 @@
+C:\Users\dneru\Desktop\Учеба\2 курс 2 сем\Васецкий C#\lab5\lab5\bin\Debug\lab5.exe.config
+C:\Users\dneru\Desktop\Учеба\2 курс 2 сем\Васецкий C#\lab5\lab5\bin\Debug\lab5.exe
+C:\Users\dneru\Desktop\Учеба\2 курс 2 сем\Васецкий C#\lab5\lab5\bin\Debug\lab5.pdb
+C:\Users\dneru\Desktop\Учеба\2 курс 2 сем\Васецкий C#\lab5\lab5\obj\Debug\lab5.csproj.AssemblyReference.cache
+C:\Users\dneru\Desktop\Учеба\2 курс 2 сем\Васецкий C#\lab5\lab5\obj\Debug\lab5.Form1.resources
+C:\Users\dneru\Desktop\Учеба\2 курс 2 сем\Васецкий C#\lab5\lab5\obj\Debug\lab5.Properties.Resources.resources
+C:\Users\dneru\Desktop\Учеба\2 курс 2 сем\Васецкий C#\lab5\lab5\obj\Debug\lab5.csproj.GenerateResource.cache
+C:\Users\dneru\Desktop\Учеба\2 курс 2 сем\Васецкий C#\lab5\lab5\obj\Debug\lab5.csproj.CoreCompileInputs.cache
+C:\Users\dneru\Desktop\Учеба\2 курс 2 сем\Васецкий C#\lab5\lab5\obj\Debug\lab5.exe
+C:\Users\dneru\Desktop\Учеба\2 курс 2 сем\Васецкий C#\lab5\lab5\obj\Debug\lab5.pdb

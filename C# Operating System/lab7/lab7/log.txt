@@ -1,0 +1,4 @@
+Date: 15.04.2023 18:15:03
+Event: lab7.Form1+LowLevelKeyboardProc
+Active window: lab7 (выполняется) - Microsoft Visual Studio
+Thread: MainThread

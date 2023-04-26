@@ -1,0 +1,18 @@
+string PathCombine;
+        private void listBox1_SelectedIndexChanged(object sender, EventArgs e)
+        {
+            PathCombine = Path.Combine("C:\\", listBox1.SelectedItem.ToString());
+            DirectoryInfo dr = new DirectoryInfo(PathCombine);
+
+            if (listBox1.SelectedItem != null)
+            {
+                foreach (var d in dr.GetDirectories())
+                {
+                    listBox1.Items.Add(d.Name);
+                }
+                foreach (var f in dr.GetFiles())
+                {
+                    listBox2.Items.Add(f.Name);
+                }
+            }
+        }

@@ -1,0 +1,10 @@
+C:\Users\dneru\Desktop\Учеба\2 курс 2 сем\Красильников C#\lab4\lab4\bin\Debug\lab4.exe.config
+C:\Users\dneru\Desktop\Учеба\2 курс 2 сем\Красильников C#\lab4\lab4\bin\Debug\lab4.exe
+C:\Users\dneru\Desktop\Учеба\2 курс 2 сем\Красильников C#\lab4\lab4\bin\Debug\lab4.pdb
+C:\Users\dneru\Desktop\Учеба\2 курс 2 сем\Красильников C#\lab4\lab4\obj\Debug\lab4.csproj.AssemblyReference.cache
+C:\Users\dneru\Desktop\Учеба\2 курс 2 сем\Красильников C#\lab4\lab4\obj\Debug\lab4.Form1.resources
+C:\Users\dneru\Desktop\Учеба\2 курс 2 сем\Красильников C#\lab4\lab4\obj\Debug\lab4.Properties.Resources.resources
+C:\Users\dneru\Desktop\Учеба\2 курс 2 сем\Красильников C#\lab4\lab4\obj\Debug\lab4.csproj.GenerateResource.cache
+C:\Users\dneru\Desktop\Учеба\2 курс 2 сем\Красильников C#\lab4\lab4\obj\Debug\lab4.csproj.CoreCompileInputs.cache
+C:\Users\dneru\Desktop\Учеба\2 курс 2 сем\Красильников C#\lab4\lab4\obj\Debug\lab4.exe
+C:\Users\dneru\Desktop\Учеба\2 курс 2 сем\Красильников C#\lab4\lab4\obj\Debug\lab4.pdb

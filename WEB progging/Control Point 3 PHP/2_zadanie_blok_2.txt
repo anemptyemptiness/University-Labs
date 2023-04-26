@@ -1,0 +1,19 @@
+<?php
+  class Functions {
+  public function sum($num1, $num2) {
+    $result = $num1 + $num2;
+    $equation = "$num1 + $num2 = $result";
+    return $equation;
+  }
+
+  public function square($num) {
+    $result = $num * $num;
+    $equation = "$num ^ 2 = $result";
+    return $equation;
+  }
+}
+$math = new Functions();
+echo $math->sum(2, 4); 
+echo "\n";
+echo $math->square(5); 
+?>
