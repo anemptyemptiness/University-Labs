@@ -1,0 +1,10 @@
+C:\Users\dneru\Desktop\Учеба\2 курс 2 сем\Васецкий C#\lab8\lab8\bin\Debug\lab8.exe.config
+C:\Users\dneru\Desktop\Учеба\2 курс 2 сем\Васецкий C#\lab8\lab8\bin\Debug\lab8.exe
+C:\Users\dneru\Desktop\Учеба\2 курс 2 сем\Васецкий C#\lab8\lab8\bin\Debug\lab8.pdb
+C:\Users\dneru\Desktop\Учеба\2 курс 2 сем\Васецкий C#\lab8\lab8\obj\Debug\lab8.csproj.AssemblyReference.cache
+C:\Users\dneru\Desktop\Учеба\2 курс 2 сем\Васецкий C#\lab8\lab8\obj\Debug\lab8.Form1.resources
+C:\Users\dneru\Desktop\Учеба\2 курс 2 сем\Васецкий C#\lab8\lab8\obj\Debug\lab8.Properties.Resources.resources
+C:\Users\dneru\Desktop\Учеба\2 курс 2 сем\Васецкий C#\lab8\lab8\obj\Debug\lab8.csproj.GenerateResource.cache
+C:\Users\dneru\Desktop\Учеба\2 курс 2 сем\Васецкий C#\lab8\lab8\obj\Debug\lab8.csproj.CoreCompileInputs.cache
+C:\Users\dneru\Desktop\Учеба\2 курс 2 сем\Васецкий C#\lab8\lab8\obj\Debug\lab8.exe
+C:\Users\dneru\Desktop\Учеба\2 курс 2 сем\Васецкий C#\lab8\lab8\obj\Debug\lab8.pdb

@@ -1,0 +1,21 @@
+C:\Users\Asus\Desktop\Вуз тупа\Шарпы\OS\Registry\Registry_lol\bin\Debug\Registry_lol.exe.config
+C:\Users\Asus\Desktop\Вуз тупа\Шарпы\OS\Registry\Registry_lol\bin\Debug\Registry_lol.exe
+C:\Users\Asus\Desktop\Вуз тупа\Шарпы\OS\Registry\Registry_lol\bin\Debug\Registry_lol.pdb
+C:\Users\Asus\Desktop\Вуз тупа\Шарпы\OS\Registry\Registry_lol\obj\Debug\Registry_lol.csproj.AssemblyReference.cache
+C:\Users\Asus\Desktop\Вуз тупа\Шарпы\OS\Registry\Registry_lol\obj\Debug\Registry_lol.csproj.SuggestedBindingRedirects.cache
+C:\Users\Asus\Desktop\Вуз тупа\Шарпы\OS\Registry\Registry_lol\obj\Debug\Registry_lol.Form1.resources
+C:\Users\Asus\Desktop\Вуз тупа\Шарпы\OS\Registry\Registry_lol\obj\Debug\Registry_lol.Properties.Resources.resources
+C:\Users\Asus\Desktop\Вуз тупа\Шарпы\OS\Registry\Registry_lol\obj\Debug\Registry_lol.csproj.GenerateResource.cache
+C:\Users\Asus\Desktop\Вуз тупа\Шарпы\OS\Registry\Registry_lol\obj\Debug\Registry_lol.csproj.CoreCompileInputs.cache
+C:\Users\Asus\Desktop\Вуз тупа\Шарпы\OS\Registry\Registry_lol\obj\Debug\Registry_lol.exe
+C:\Users\Asus\Desktop\Вуз тупа\Шарпы\OS\Registry\Registry_lol\obj\Debug\Registry_lol.pdb
+C:\Users\dneru\Downloads\Registry\Registry\Registry_lol\bin\Debug\Registry_lol.exe.config
+C:\Users\dneru\Downloads\Registry\Registry\Registry_lol\bin\Debug\Registry_lol.exe
+C:\Users\dneru\Downloads\Registry\Registry\Registry_lol\bin\Debug\Registry_lol.pdb
+C:\Users\dneru\Downloads\Registry\Registry\Registry_lol\obj\Debug\Registry_lol.csproj.AssemblyReference.cache
+C:\Users\dneru\Downloads\Registry\Registry\Registry_lol\obj\Debug\Registry_lol.Form1.resources
+C:\Users\dneru\Downloads\Registry\Registry\Registry_lol\obj\Debug\Registry_lol.Properties.Resources.resources
+C:\Users\dneru\Downloads\Registry\Registry\Registry_lol\obj\Debug\Registry_lol.csproj.GenerateResource.cache
+C:\Users\dneru\Downloads\Registry\Registry\Registry_lol\obj\Debug\Registry_lol.csproj.CoreCompileInputs.cache
+C:\Users\dneru\Downloads\Registry\Registry\Registry_lol\obj\Debug\Registry_lol.exe
+C:\Users\dneru\Downloads\Registry\Registry\Registry_lol\obj\Debug\Registry_lol.pdb
